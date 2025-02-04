@@ -43,3 +43,8 @@ The assignments of topics to each group are as follows:
 ### Group 3
  * Acceptable Use
  * Network and Data Security
+
+## Due Dates:
+The alpha drafts are due on March 7th at 23:59:59.
+The beta drafts are due on April 11th at 23:59:59.
+Final drafts will be downloaded from your github repos on May 9th at 23:59:59.
