@@ -41,6 +41,3 @@ March 1, 2025
 
 ---
 
-## License
-
-[Specify your preferred license here, e.g., MIT, GPL, etc.]
