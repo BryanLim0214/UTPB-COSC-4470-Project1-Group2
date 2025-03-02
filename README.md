@@ -1,50 +1,46 @@
-# UTPB-COSC-4470-Project1
-This repo contains the assignment and provided resources for Project 1 of the Applied Network Security class.
+# UTPB-COSC-4470-Project1-Group2
+# Group 2: Bryan Lim, Casey Sharp, Grzegorz Rudnicki, Jacob Garcia, Raquel Lugo
+## Enterprise Security Policies
 
-## Project Goals:
-1) Gain experience with writing some common types of policy documents.
-2) Gain experience working in a group setting on collaboratively writing good policy.
-3) Gain experience in the process of iteratively writing policy and seeking approval, then incorporating feedback into the next draft.
+This repository contains comprehensive security policies developed as part of UTPB COSC 4470 Project 1 by Group 2. These policies are designed to establish robust security frameworks for organizations implementing BYOD (Bring Your Own Device) programs and incident response procedures.
 
-## Description:
-Each group will be assigned both a general policy meant for all or most employees to read and sign, and a specific policy meant for a small team to implement and enforce.  We will do multiple rounds of submittal and response until a final version of each policy is approved.
+### Repository Contents
 
-## Grading Criteria:
-Each group will be expected to participate in the approval process.  This means that alpha drafts must be provided for assessment by the first deadline, and beta drafts must be prepared and made available by the second deadline.
+1. **Comprehensive & Secure Bring Your Own Device (BYOD) Policy (v2.4)**
+   - Establishes security requirements for personal devices used for work
+   - Defines acceptable use guidelines and compliance monitoring
+   - Outlines incident reporting procedures for personal devices
+   - Details enforcement measures and exception handling
 
-I will provide commentary on each draft, which should be addressed within the subsequent draft of each document.  The documents will be downloaded in whatever form they exist upon arrival of the third deadline, and I will perform a final assessment from those versions.  Teams which fail to submit an alpha document or make meaningful changes to the beta draft following feedback will lose ten points.  Obviously, if no document is provided by the final deadline, fifty points will be deducted for each missing document.
+2. **Incident Response Policy for Network Security (v1.2)**
+   - Provides structured approach to security incident handling
+   - Includes detailed incident classification and response procedures
+   - Defines escalation protocols and team responsibilities
+   - Establishes documentation requirements and integration with other policies
 
-Your final policy documents will be assessed along most of the attributes discussed in class, specifically:
- * Structure
- * Clarity and Consistency/Readability
- * Specificity
- * Relevance
- * Comprehensiveness
- * Enforceability
- * Flexibility/Scalability
- * Measurability
+### Purpose
 
-Your submitted documents should exhibit all of these qualities to a reasonable degree.  Documents which fail to meet these requirements will have points deducted.
+These security policies serve as templates that organizations can adapt to:
+- Protect corporate data accessed via personal devices
+- Establish clear expectations for employees using personal devices for work
+- Define structured approaches to identifying and responding to security incidents
+- Ensure compliance with security best practices and regulatory requirements
 
-## Deliverables:
-Each group will produce two policy documents.  Examples of similar documents are usually between about ten and thirty pages in length, but there are no minimum or maximum length requirements within the context of this class.  Instead, endeavor to follow the structural and stylistic guidelines to the best of your abilities.
+### Implementation Recommendations
 
-## Group Assignments:
-The assignments of topics to each group are as follows:
+When implementing these policies, organizations should:
+1. Customize policy details to reflect their specific technical environment
+2. Review and update contact information and company-specific references
+3. Integrate with existing security frameworks and policies
+4. Establish regular review cycles to keep policies current
+5. Develop training materials to ensure employee understanding and compliance
 
-### Group 1
- * Remote Work
- * Physical Security
+### Last Updated
 
-### Group 2
- * BYOD
- * Incident Response
+March 1, 2025
 
-### Group 3
- * Acceptable Use
- * Network and Data Security
+---
 
-## Due Dates:
- * The alpha drafts are due on March 7th at 23:59:59.
- * The beta drafts are due on April 11th at 23:59:59.
- * Final drafts will be downloaded from your github repos on May 9th at 23:59:59.
+## License
+
+[Specify your preferred license here, e.g., MIT, GPL, etc.]
